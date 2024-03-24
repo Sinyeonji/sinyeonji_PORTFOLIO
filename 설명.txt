@@ -1,0 +1,12 @@
+1. node js 설치
+2. npm install --global yarn
+3. # yarn create react-app 프로젝트명
+yarn create react-app gdh-react-study
+
+4.
+# 리액트 앱 생성한 폴더로 이동
+cd C:\work\react-project\gdh-react-study
+# 리액트 앱 시작
+yarn start
+
+빌드 명령어: yarn build
